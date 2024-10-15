@@ -28,6 +28,8 @@ Hello world!
 ### ⚡ Fun Fact
 - ⚡ &nbsp; I have an irrational fear of shipwrecks. Who needs the drama of the Titanic when you can code? 🚢😱
 
+<br>
+
 ## 🔧 Languages & Tools
 
 <p align="center">
