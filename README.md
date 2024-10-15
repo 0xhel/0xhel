@@ -16,6 +16,8 @@ Hello world!
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<br>
+
 # About me
 
 🚀  Next.js / Redux / MongoDB / Express 🚀
