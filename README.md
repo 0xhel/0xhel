@@ -66,5 +66,5 @@ Hello world!
 <br>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmc2YmI5d3FzcHZwY25uaTQxY3QxNXk3dDV2cXVua3lmYmVrMWl1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif" alt="Cat on Computer"/>
+  <img src="https://media1.tenor.com/m/GOabrbLMl4AAAAAd/plink-cat-plink.gif" alt="Cat on Computer"/>
 </div>
