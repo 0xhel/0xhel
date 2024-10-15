@@ -18,6 +18,7 @@ Hello world!
 
 # About me
 
+🚀  Next.js / Redux / MongoDB / Express 🚀
 ### 🌱 Always Learning
 - 🔭 &nbsp; Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
 ### 🥅 Goals
