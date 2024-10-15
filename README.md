@@ -16,19 +16,9 @@ Hello world!
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-# About me
-
-I'm a **Fullstack Developer** on a mission to turn caffeine into code and make the web a better place! 🚀
-
-### 🎨 Key Skills:
-- **Web and Mobile Application Design**: Prototyping like a pro!
-- 🌐 **Front-end**: HTML5, CSS, JavaScript, React, Redux – making pixels dance!
-- 🛠️ **Back-end**: Node.js, Express – I promise my servers don't bite!
-- 🗄️ **Database**: MongoDB – because who doesn't love a good document?
-- 🐧 **Linux Mastery**: Navigating the command line like a seasoned pirate! ⚓️
-- 🔄 **Workflow**: Git, GitHub – where every commit tells a story of triumph or despair.
-
 ---
+
+# About me
 
 ### 🌱 Always Learning
 Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
