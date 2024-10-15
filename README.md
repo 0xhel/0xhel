@@ -47,6 +47,20 @@ Hello world!
 
 <br>
 
+## 📈 GitHub Stats
+
+<div align="center">
+<!-- GitHub Stats tools by @anuraghazra : https://github.com/anuraghazra/github-readme-stats  -->
+<a href="https://github.com/0xhel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&theme=radical"/>
+</a>
+<a href="https://github.com/0xhel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&langs_count=3&theme=radical" />
+</a>
+</div>
+
+<br>
+
 
 ![Cat on Computer](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
