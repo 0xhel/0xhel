@@ -1,10 +1,8 @@
-<!-- Introduction -->
 <h1 align="center">
 Hello world!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+Aldric+Bottreau;I'm+a+Fullstack+Developer" alt="Typing SVG" /></a>
 </p>
@@ -35,7 +33,6 @@ Hello world!
 ## 🔧 Languages & Tools
 
 <p align="center">
-  <!-- Tools icons by @mikecodesdotnet :  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/visualstudio_logo.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/bash_logo.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/html_logo.svg" alt="html" style="vertical-align:top; margin:4px">
@@ -50,7 +47,6 @@ Hello world!
 ## 📈 GitHub Stats
 
 <div align="center">
-<!-- GitHub Stats tools by @anuraghazra : https://github.com/anuraghazra/github-readme-stats  -->
 <a href="https://github.com/0xhel">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&theme=radical"/>
 </a>
@@ -61,7 +57,14 @@ Hello world!
 
 <br>
 
+## Miscellaneous
 
-![Cat on Computer](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<p align="center">Just a Random programming jokes :</p>
 
+<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
 
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat on Computer"/>
+</div>
