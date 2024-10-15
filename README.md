@@ -28,6 +28,25 @@ Hello world!
 ### ⚡ Fun Fact
 - ⚡ &nbsp; I have an irrational fear of shipwrecks. Who needs the drama of the Titanic when you can code? 🚢😱
 
+## 🔧 Languages & Tools
+
+<p align="center">
+  <!-- Tools icons by @mikecodesdotnet :  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/visualstudio_logo.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/bash_logo.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/html_logo.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/css3_logo.svg" alt="css3" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/js_logo.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/react_logo.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/nodejs_logo.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  
+  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/csharp.svg" alt="c#" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/wpf.svg" alt="wpf" style="vertical-align:top; margin:4px">
+</p>
+
+<br>
+
+
 ![Cat on Computer](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
