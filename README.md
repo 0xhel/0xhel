@@ -19,16 +19,23 @@ Hello world!
 # About me
 
 ### 🌱 Always Learning
+<p style="font-size: smaller;">
 Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
+</p>
 
 ### 🥅 Goals
+<p style="font-size: smaller;">
 Overcoming **imposter syndrome** — because even my bugs deserve to be acknowledged!
+</p>
 
 ### 💬 Let’s Chat!
-I’m always up for discussions about tech, and I’m known to throw in a dad joke or two. 
+<p style="font-size: smaller;">
+I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
+</p>
 
 ### ⚡ Fun Fact
+<p style="font-size: smaller;">
 I have an irrational fear of shipwrecks. Who needs the drama of the Titanic when you can code? 🚢😱
+</p>
 
 ![Cat on Computer](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
