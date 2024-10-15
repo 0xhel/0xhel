@@ -46,14 +46,7 @@ Hello world!
 
 ## 📈 GitHub Stats
 
-<div align="center">
-<a href="https://github.com/0xhel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&theme=radical"/>
-</a>
-<a href="https://github.com/0xhel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&langs_count=3&theme=radical" />
-</a>
-</div>
+
 
 <br>
 
