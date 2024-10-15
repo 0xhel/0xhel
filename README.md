@@ -57,14 +57,6 @@ Hello world!
 
 <br>
 
-## 🎭​ Miscellaneous
-
-<p align="center">Just a Random programming jokes :</p>
-
-<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
-
-<br>
-
 ## 🎧 Currently Listening To
 
 <p align="center">
@@ -76,6 +68,12 @@ Hello world!
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m3djlmresd6niu2ctcamitd2yq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
   </a>
 </div>
+
+## 🎭​ Miscellaneous
+
+<p align="center">Just a Random programming jokes :</p>
+
+<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
 
 <br>
 
