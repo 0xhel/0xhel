@@ -16,8 +16,6 @@ Hello world!
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
----
-
 # About me
 
 ### 🌱 Always Learning
@@ -31,8 +29,6 @@ I’m always up for discussions about tech, and I’m known to throw in a dad jo
 
 ### ⚡ Fun Fact
 I have an irrational fear of shipwrecks. Who needs the drama of the Titanic when you can code? 🚢😱
-
----
 
 ![Cat on Computer](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
