@@ -16,7 +16,7 @@ Hello world!
 
 <br>
 
-# About me
+# 🐱​ About me
 
 🚀  Next.js / Redux / MongoDB / Express 🚀
 ### 🌱 Always Learning
@@ -78,6 +78,8 @@ Hello world!
 </div>
 
 <br>
+
+---
 
 <div align="center">
   <img src="https://media1.tenor.com/m/yQ6QlIyJf-EAAAAC/cats-computer.gif" alt="Cat on Computer"/>
