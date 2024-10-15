@@ -65,6 +65,20 @@ Hello world!
 
 <br>
 
+## 🎧 Currently Listening To
+
+<p align="center">
+  Music fuels my coding sessions! Here's what I'm jamming to right now:
+</p>
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m3djlmresd6niu2ctcamitd2yq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  </a>
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://media1.tenor.com/m/yQ6QlIyJf-EAAAAC/cats-computer.gif" alt="Cat on Computer"/>
 </div>
