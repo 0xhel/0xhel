@@ -77,6 +77,25 @@ Hello world!
 
 <br>
 
+## 🎲 Random Pokémon of the Day
+
+<p align="center">
+  Sometimes I take coding breaks to catch 'em all! Here's a random Pokémon for you:
+</p>
+
+<div align="center">
+  <a href="https://github.com/PokeAPI/pokegif">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" alt="Random Pokémon" id="pokemon-img"/>
+  </a>
+</div>
+
+<script>
+  const randomId = Math.floor(Math.random() * 898) + 1; // There are currently 898 Pokémon
+  document.getElementById('pokemon-img').src = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${randomId}.png`;
+</script>
+
+</br>
+
 ---
 
 <div align="center">
