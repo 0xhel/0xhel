@@ -57,7 +57,7 @@ Hello world!
 
 <br>
 
-## Miscellaneous
+## 🎭​ Miscellaneous
 
 <p align="center">Just a Random programming jokes :</p>
 
