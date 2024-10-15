@@ -16,7 +16,7 @@ Hello world!
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-# 👋 Hello, World!
+# About me
 
 I'm a **Fullstack Developer** on a mission to turn caffeine into code and make the web a better place! 🚀
 
