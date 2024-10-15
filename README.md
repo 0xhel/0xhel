@@ -16,7 +16,7 @@ Hello world!
 
 <br>
 
-# 🐱​ About me
+## 🐱​ About me
 
 🚀  Next.js / Redux / MongoDB / Express 🚀
 ### 🌱 Always Learning
