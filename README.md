@@ -69,7 +69,7 @@ Hello world!
   </a>
 </div>
 
-## 🎭​ Miscellaneous
+## 🤣 A Little Joke
 
 <p align="center">Just a Random programming jokes :</p>
 
