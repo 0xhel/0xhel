@@ -34,7 +34,7 @@ Hello world!
 - 💬 &nbsp; I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
 
 ### Fun Fact
-- 🤣​ &nbsp; I have an irrational fear of shipwrecks. Who needs the drama of the Titanic when you can code? 🚢😱
+- 🤣​ &nbsp; I have an irrational fear of shipwrecks. 🚢
 
 <br>
 
