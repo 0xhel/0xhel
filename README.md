@@ -80,16 +80,6 @@ Hello world!
   </a>
 </div>
 
-## 🤣 A Little Joke
-
-<p align="center">Just a Random programming jokes :</p>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
-
-<br>
-
 ---
 
 <div align="center">
