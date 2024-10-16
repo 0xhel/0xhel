@@ -23,10 +23,7 @@
   <summary>🔍 <strong>About me</strong></summary>
 
   <br>
-
-  <details>
-  <summary>🔍 <strong>About me</strong></summary>
-
+  
   <details>
     <summary>🌱 Always Learning</summary>
     <small>😝 Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖</small>
