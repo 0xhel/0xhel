@@ -32,8 +32,6 @@ Hello world!
 ### Fun Fact
 - 🤣​ &nbsp; I have an irrational fear of shipwrecks. 🚢
 
-<br>
-
 ## Skills
 
 <p align="center">
@@ -57,8 +55,6 @@ Hello world!
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="vertical-align:top; margin:4px"/>
 </p>
 
-<br>
-
 ## Stats
 
 <div align="center">
@@ -70,15 +66,11 @@ Hello world!
   </a>
 </div>
 
-<br>
-
 ## Daily quote
 
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
 </p>
-
-<br>
 
 ## Music
 
