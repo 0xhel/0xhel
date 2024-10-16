@@ -16,7 +16,6 @@ Hello world!
 </p>
 
 ![Visiteurs](https://api.visitorbadge.io/api/VisitorHit?user=0xhel&repo=github-visitors-badge&countColor=%237B1E7A)
-![Weather](https://weather.example.com/api?location=Bordeaux)
 
 <br>
 
