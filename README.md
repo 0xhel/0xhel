@@ -9,6 +9,7 @@ Hello world!
   </a>
 </p>
 
+<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 ![](https://api.visitorbadge.io/api/VisitorHit?user=0xhel&repo=github-visitors-badge&countColor=000000)
 
 <p align="center">
