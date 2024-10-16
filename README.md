@@ -4,11 +4,7 @@ Hello world!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello%2C+i'm+Aldric+Bottreau;I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&duration=5010&pause=1000&color=00FF2C&background=000000&multiline=true&width=450&height=140&lines=%24+echo+%22Hello%2C+I'm+Aldric+Bottreau%22;Hello%2C+I'm+Aldric+Bottreau;%24+echo+%22I'm+a+Fullstack+Developer%22;I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
-
-![Visiteurs](https://api.visitorbadge.io/api/VisitorHit?user=0xhel&repo=github-visitors-badge&countColor=%230366d6)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&duration=5010&pause=1000&color=00FF2C&background=000000&multiline=true&width=450&height=200&lines=%24+echo+%22Hello%2C+I'm+Aldric+Bottreau%22;Hello%2C+I'm+Aldric+Bottreau;%24+echo+%22I'm+a+Fullstack+Developer%22;I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
 
 <br>
 
