@@ -81,19 +81,8 @@
 
 ---
 
-<h2 align="center">
-  💡 Daily quote
-</h2>
-
-  <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
-  </p>
-
----
-
-<h6 align="center">
-  🎶 Music
-</h6>
+<details>
+  <summary>🎶 Music</summary>
 
   <p align="center">
     Music fuels my coding sessions! Here's what I'm jamming to right now:
@@ -104,3 +93,16 @@
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m3djlmresd6niu2ctcamitd2yq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
     </a>
   </div>
+</details>
+
+---
+
+<h2 align="center">
+  💡 Daily quote
+</h2>
+
+  <p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
+  </p>
+
+---
