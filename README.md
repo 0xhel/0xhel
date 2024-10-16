@@ -9,6 +9,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&bg_color=000000&title_color=00FF00&text_color=00FF00&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+</p>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/{0xhel}/count.svg" alt="0xhel :: Visitor's Count" />
 </div>
