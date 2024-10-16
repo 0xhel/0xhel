@@ -30,6 +30,10 @@ Hello world!
 
 <br>
 
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming)
+
+<br>
+
 ## 🔧 Languages & Tools
 
 <p align="center">
@@ -79,8 +83,6 @@ Hello world!
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m3djlmresd6niu2ctcamitd2yq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
   </a>
 </div>
-
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming)
 
 ---
 
