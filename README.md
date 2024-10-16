@@ -16,7 +16,7 @@
 <br>
 
 <details>
-  <summary>🔍 About me</summary>
+  <summary>🔍 <strong>About me</strong></summary>
 
   ### 🌱 Always Learning
   - 😝 &nbsp; Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
