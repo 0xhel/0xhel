@@ -78,6 +78,14 @@ Hello world!
 
 <br>
 
+## Daily quote
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
+</p>
+
+<br>
+
 ## Music
 
 <p align="center">
@@ -90,9 +98,3 @@ Hello world!
   </a>
 </div>
 
-
-## Daily quote
-
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
-</p>
