@@ -15,7 +15,7 @@ Hello world!
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-![Visiteurs](https://api.visitorbadge.io/api/VisitorHit?user=0xhel&repo=github-visitors-badge&countColor=%237B1E7A)
+[![Visits Badge](https://badges.pufler.dev/visits/0xhel/badge-it)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/0xhel)](https://badges.pufler.dev)
 
 <br>
