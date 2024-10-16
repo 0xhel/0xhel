@@ -90,7 +90,8 @@ Hello world!
   </a>
 </div>
 
----
+
+## Daily quote
 
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
