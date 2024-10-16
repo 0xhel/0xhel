@@ -24,6 +24,10 @@ Hello world!
 
 <br>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/yQ6QlIyJf-EAAAAC/cats-computer.gif" alt="Cats at computer">
+</p>
+
 ## About me
 
 ### Always Learning
