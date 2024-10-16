@@ -58,10 +58,10 @@ Hello world!
 
 <div align="center">
   <a href="https://github.com/0xhel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&theme=blueberry&count_private=true&cache_seconds=1800" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&theme=green&count_private=true&cache_seconds=1800" />
   </a>
   <a href="https://github.com/0xhel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&langs_count=3&theme=blueberry" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&langs_count=3&theme=green" />
   </a>
 </div>
 
