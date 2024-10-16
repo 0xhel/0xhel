@@ -45,7 +45,7 @@
   </details>
 </details>
 
----
+<hr>
 
 <details>
   <summary>⚙️ <strong>Skills</strong></summary>
@@ -74,7 +74,7 @@
   </p>
 </details>
 
----
+<hr>
 
 <details>
   <summary>📊 <strong>Stats</strong></summary>
@@ -91,7 +91,7 @@
   </div>
 </details>
 
----
+<hr>
 
 <details>
   <summary>🏆 <strong>GitHub Trophies</strong></summary>
@@ -106,7 +106,7 @@
 
 </details>
 
----
+<hr>
 
 <details>
   <summary>🎶 <strong>Music</strong></summary>
@@ -124,7 +124,7 @@
   </div>
 </details>
 
----
+<hr>
 
 <details>
   <summary><strong>💡 Daily quote</strong></summary>
