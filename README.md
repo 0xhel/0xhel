@@ -15,6 +15,10 @@ Hello world!
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/GOabrbLMl4AAAAAd/plink-cat-plink.gif" alt="A cat"/>
+</div>
+
 ![Visiteurs](https://api.visitorbadge.io/api/VisitorHit?user=0xhel&repo=github-visitors-badge&countColor=%230366d6)
 
 <br>
