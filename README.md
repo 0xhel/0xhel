@@ -20,34 +20,23 @@
 <br>
 
 <details>
-  <summary>🔍 <strong>About me</strong></summary>
-
+  <summary>🔍 <strong>About Me</strong></summary>
   <br>
 
-  <details>
-    <summary>🌱 Always Learning</summary>
-    <br>
-    😝 Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
-  </details>
-  
-  <details>
-    <summary>🎯 Goals</summary>
-    <br>
-    👨‍💻​ Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
-  </details>
+  🌱 **Always Learning**  
+  😝 Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
 
-  <details>
-    <summary>💬 Let’s Chat!</summary>
-    <br>
-    🤓 I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
-  </details>
+  🎯 **Goals**  
+  👨‍💻 Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
 
-  <details>
-    <summary>🤣 Fun Fact</summary>
-    <br>
-    🍫 I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
-  </details>
+  💬 **Let’s Chat!**  
+  🤓 I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
+
+  🤣 **Fun Fact**  
+  🍫 I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
+
 </details>
+
 
 ---
 
