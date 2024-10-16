@@ -20,25 +20,28 @@
 
   <br>
 
-  <details>
-    <summary>🌱 Always Learning</summary>
-    😝 Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
-  </details>
+<details>
+  <summary>🌱 Always Learning</summary>
+  <br>
+  😝 Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
+</details>
 
-  <details>
-    <summary>🎯 Goals</summary>
-    👨‍💻​ Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
-  </details>
+<details>
+  <summary>🎯 Goals</summary>
+  <br>
+  👨‍💻​ Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
+</details>
 
-  <details>
-    <summary>💬 Let’s Chat!</summary>
-    🤓 I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
-  </details>
+<details>
+  <summary>💬 Let’s Chat!</summary>
+  <br>
+  🤓 I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
+</details>
 
-  <details>
-    <summary>🤣 Fun Fact</summary>
-    🍫 I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
-  </details>
+<details>
+  <summary>🤣 Fun Fact</summary>
+  <br>
+  🍫 I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
 </details>
 
 ---
@@ -107,6 +110,8 @@
 <details>
   <summary>🎶 <strong>Music</strong></summary>
 
+<br>
+
   <p align="center">
     Music fuels my coding sessions! Here's what I'm jamming to right now:
   </p>
@@ -122,6 +127,8 @@
 
 <details>
   <summary><strong>💡 Daily quote</strong></summary>
+
+<br>
 
   <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
