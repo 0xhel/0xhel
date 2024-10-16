@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="vertical-align:top; margin:4px"/>
   </p>
 
-
+<details>
   <summary>🔍 About me</summary>
 
   ### 🌱 Always Learning
