@@ -21,6 +21,7 @@ Hello world!
 [![Gists Badge](https://badges.pufler.dev/gists/0xhel)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/0xhel/badge-it)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/0xhel/badge-it)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/0xhel)](https://badges.pufler.dev)
 
 <br>
 
