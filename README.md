@@ -9,9 +9,9 @@ Hello world!
 </p>
 
 <p align="center">
-  <a href=""><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/0xhel/0xhel/blob/main/socialLogo/linkedin.png"/></a>
+  <a href=""><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/0xhel/0xhel/blob/main/socialLogo/linkedinLogo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:0xhel@tutamail.com"><img width="32px" alt="Email" title="Email" src="https://github.com/0xhel/0xhel/blob/main/socialLogo/mail.png"></a>
+  <a href="mailto:0xhel@tutamail.com"><img width="32px" alt="Email" title="Email" src="https://github.com/0xhel/0xhel/blob/main/socialLogo/mailLogo.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
