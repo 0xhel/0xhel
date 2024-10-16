@@ -91,14 +91,9 @@
 
 <details>
   <summary>🏆 <strong>GitHub Trophies</strong></summary>
-  
-  <br>
-  
     <p align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=0xhel&theme=matrix&column=7" alt="GitHub Trophies" />
-      </a>
-    </p>
+      [![trophy](https://github-profile-trophy.vercel.app/?username=0xhel&theme=matrix&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+    <p>
 </details>
 
 ---
