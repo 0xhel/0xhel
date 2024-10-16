@@ -99,6 +99,7 @@ Hello world!
 
 ---
 
-![Random Cat](https://cataas.com/cat)
+![Random Cat](https://cataas.com/cat?random=1)
+
 
 
