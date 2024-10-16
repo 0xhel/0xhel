@@ -91,9 +91,7 @@
 
 <details>
   <summary>🏆 <strong>GitHub Trophies</strong></summary>
-    <p align="center">
       [![trophy](https://github-profile-trophy.vercel.app/?username=0xhel&theme=matrix&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-    <p>
 </details>
 
 ---
