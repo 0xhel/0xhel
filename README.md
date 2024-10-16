@@ -81,18 +81,21 @@
 ---
 
 <details>
-  <summary>📊 <strong>Stats</strong></summary>
-
+  <summary>🔍 <strong>About Me</strong></summary>
   <br>
 
-  <div align="center">
-    <a href="https://github.com/0xhel">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&bg_color=000000&title_color=00FF00&text_color=00FF00&count_private=true&cache_seconds=1800" />
-    </a>
-    <a href="https://github.com/0xhel">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&langs_count=3&bg_color=000000&title_color=00FF00&text_color=00FF00" />
-    </a>
-  </div>
+  <h3>🌱 Always Learning</h3>
+  <p>😝 Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖</p>
+
+  <h3>🎯 Goals</h3>
+  <p>👨‍💻 Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!</p>
+
+  <h3>💬 Let’s Chat!</h3>
+  <p>🤓 I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.</p>
+
+  <h3>🤣 Fun Fact</h3>
+  <p>🍫 I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦</p>
+
 </details>
 
 ---
