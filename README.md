@@ -6,12 +6,7 @@ Hello world!
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello%2C+i'm+Aldric+Bottreau;I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href=""><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/0xhel/0xhel/blob/main/socialLogo/linkedinLogo.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:0xhel@tutamail.com"><img width="32px" alt="Email" title="Email" src="https://github.com/0xhel/0xhel/blob/main/socialLogo/mailLogo.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&duration=5010&pause=1000&color=00FF2C&background=000000&multiline=true&width=450&height=140&lines=%24+echo+%22Hello%2C+I'm+Aldric+Bottreau%22;Hello%2C+I'm+Aldric+Bottreau;%24+echo+%22I'm+a+Fullstack+Developer%22;I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
 
 ![Visiteurs](https://api.visitorbadge.io/api/VisitorHit?user=0xhel&repo=github-visitors-badge&countColor=%230366d6)
 
