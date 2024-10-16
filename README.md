@@ -7,12 +7,6 @@ Hello world!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+Aldric+Bottreau;I'm+a+Fullstack+Developer" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aldric-bottreau-4529902bb/"><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/0xhel/0xhel/blob/main/socialLogo/linkedin.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:0xhel@tutamail.com"><img width="32px" alt="Email" title="Email" src="https://github.com/0xhel/0xhel/blob/main/socialLogo/mail.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
 
 <br>
 
