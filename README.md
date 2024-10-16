@@ -12,6 +12,8 @@ Hello world!
 <p>Visitors: </p>
 <img src="https://profile-counter.glitch.me/{0xhel}/count.svg" alt="0xhel :: Visitor's Count" />
 
+---
+
 ## 🔍 About me
 
 ### 🌱 Always Learning
