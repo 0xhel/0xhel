@@ -18,21 +18,21 @@ Hello world!
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-## About me
+## 🔍 About me
 
-### Always Learning
+### 🌱 Always Learning
 - 😝​ &nbsp; Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
 
-### Goals
+### 🎯 Goals
 - 👨‍💻​ &nbsp; Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
 
-### Let’s Chat!
+### 💬 Let’s Chat!
 - 💬 &nbsp; I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
 
-### Fun Fact
+### 🤣 Fun Fact
 - 🤣​ &nbsp; I have an irrational fear of shipwrecks. 🚢
 
-## Skills
+## ⚙️ Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="vertical-align:top; margin:4px"/>
@@ -55,7 +55,7 @@ Hello world!
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="vertical-align:top; margin:4px"/>
 </p>
 
-## Stats
+## 📊 Stats
 
 <div align="center">
   <a href="https://github.com/0xhel">
@@ -66,13 +66,13 @@ Hello world!
   </a>
 </div>
 
-## Daily quote
+## 💡 Daily quote
 
 <p align="center">
   <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
 </p>
 
-## Music
+## 🎶 Music
 
 <p align="center">
   Music fuels my coding sessions! Here's what I'm jamming to right now:
@@ -83,4 +83,3 @@ Hello world!
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m3djlmresd6niu2ctcamitd2yq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
   </a>
 </div>
-
