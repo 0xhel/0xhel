@@ -10,7 +10,6 @@ Hello world!
 </p>
 
 <img src="https://profile-counter.glitch.me/{0xhel}/count.svg" alt="0xhel :: Visitor's Count" />
-![](https://api.visitorbadge.io/api/VisitorHit?user=0xhel&repo=github-visitors-badge&countColor=000000)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aldric-bottreau-4529902bb/"><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/0xhel/0xhel/blob/main/socialLogo/linkedin.png"/></a>
