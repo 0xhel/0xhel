@@ -31,7 +31,7 @@ Hello world!
 <br>
 
 <p align="center">
-  ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming)
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
 </p>
 
 <br>
