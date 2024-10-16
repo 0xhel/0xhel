@@ -99,5 +99,6 @@ Hello world!
 
 ---
 
-![Random Cat](https://api.thecatapi.com/v1/images/search?format=src)
+![Random Cat](https://cataas.com/cat)
+
 
