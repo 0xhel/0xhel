@@ -82,5 +82,5 @@ Hello world!
 ---
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/yQ6QlIyJf-EAAAAC/cats-computer.gif" alt="Cat on Computer"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlranRzaDBpbXh4eDZocmtqNjRmeTI2cnYyN2ttMzhpMDJjbHE5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" alt="Cat on Computer"/>
 </div>
