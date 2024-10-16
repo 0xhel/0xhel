@@ -12,6 +12,8 @@
 <p>Visitors: </p>
 <img src="https://profile-counter.glitch.me/{0xhel}/count.svg" alt="0xhel :: Visitor's Count" />
 
+---
+
 <details>
   <summary>🔍 About me</summary>
 
@@ -27,6 +29,8 @@
   ### 🤣 Fun Fact
   - 🍫 &nbsp; I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
 </details>
+
+---
 
 <details>
   <summary>⚙️ Skills</summary>
@@ -53,6 +57,8 @@
   </p>
 </details>
 
+---
+
 <details>
   <summary>📊 Stats</summary>
 
@@ -66,13 +72,18 @@
   </div>
 </details>
 
+---
+
 <details>
   <summary>🏆 GitHub Trophies</summary>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=0xhel&theme=matrix&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
-  ## 🎶 Music
+---
+
+<details>
+  <summary>🎶 Music</summary>
 
   <p align="center">
     Music fuels my coding sessions! Here's what I'm jamming to right now:
@@ -83,9 +94,14 @@
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m3djlmresd6niu2ctcamitd2yq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
     </a>
   </div>
+</details>
 
-  ## 💡 Daily quote
+---
+
+<details>
+  <summary>💡 Daily quote</summary>
 
   <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
   </p>
+</details>
