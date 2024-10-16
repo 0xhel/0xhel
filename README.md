@@ -22,23 +22,23 @@ Hello world!
 
 <br>
 
-## 🐱​ About me
+## About me
 
-### 🌱 Always Learning
+### Always Learning
 - 🔭 &nbsp; Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
 
-### 🥅 Goals
+### Goals
 - 🥅 &nbsp; Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
 
-### 💬 Let’s Chat!
+### Let’s Chat!
 - 💬 &nbsp; I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
 
-### ⚡ Fun Fact
+### Fun Fact
 - ⚡ &nbsp; I have an irrational fear of shipwrecks. Who needs the drama of the Titanic when you can code? 🚢😱
 
 <br>
 
-## 🔧 Languages & Tools
+## Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="vertical-align:top; margin:4px"/>
@@ -63,7 +63,7 @@ Hello world!
 
 <br>
 
-## 📈 GitHub Stats
+## Stats
 
 <div align="center">
   <a href="https://github.com/0xhel">
@@ -76,7 +76,7 @@ Hello world!
 
 <br>
 
-## 🎧 Currently Listening To
+## Music
 
 <p align="center">
   Music fuels my coding sessions! Here's what I'm jamming to right now:
