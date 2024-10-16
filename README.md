@@ -66,6 +66,10 @@ Hello world!
   </a>
 </div>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 💡 Daily quote
 
 <p align="center">
