@@ -81,9 +81,9 @@
 
 ---
 
-<h2 align="center">
-  💡 Daily quote
-</h2>
+<h3 align="center">
+  🎶 Music
+</h3>
 
   <p align="center">
     Music fuels my coding sessions! Here's what I'm jamming to right now:
