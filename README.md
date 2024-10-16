@@ -13,8 +13,6 @@
 <img src="https://profile-counter.glitch.me/{0xhel}/count.svg" alt="0xhel :: Visitor's Count" />
 </div>
 
----
-
 <details>
   <summary>🔍 About me</summary>
 
