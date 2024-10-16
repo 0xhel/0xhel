@@ -30,9 +30,9 @@ Hello world!
 
 <br>
 
-<div align="center">
+<p align="center">
   ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming)
-</div>
+</p>
 
 <br>
 
