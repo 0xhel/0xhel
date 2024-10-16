@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-<img src="https://profile-counter.glitch.me/{0xhel}/count.svg" alt="0xhel :: Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{0xhel}/count.svg" alt="0xhel :: Visitor's Count" />
 </div>
 
 <details>
@@ -104,3 +104,7 @@
     <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
   </p>
 </details>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat typing on keyboard" />
+</div>
