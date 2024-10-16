@@ -68,7 +68,7 @@ Hello world!
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xhel&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xhel&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💡 Daily quote
 
