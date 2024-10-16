@@ -97,7 +97,7 @@
 
 ---
 
-<h1 align="center">
+<h2 align="center">
   💡 Daily quote
 </h2>
 
