@@ -15,6 +15,8 @@ Hello world!
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+![Visiteurs](https://api.visitorbadge.io/api/VisitorHit?user=0xhel&repo=github-visitors-badge&countColor=%237B1E7A)
+
 <br>
 
 ## 🐱​ About me
@@ -72,8 +74,6 @@ Hello world!
 </div>
 
 <br>
-
-![Visiteurs](https://api.visitorbadge.io/api/VisitorHit?user=0xhel&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ## 🎧 Currently Listening To
 
