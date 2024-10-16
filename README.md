@@ -18,6 +18,8 @@
 <details>
   <summary>🔍 <strong>About me</strong></summary>
 
+  <br>
+
   <details>
     <summary>🌱 Always Learning</summary>
     - 😝 &nbsp; Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
