@@ -60,6 +60,8 @@ Hello world!
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <div align="center">
   <a href="https://github.com/0xhel">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&theme=radical&count_private=true&cache_seconds=1800" />
@@ -70,6 +72,8 @@ Hello world!
 </div>
 
 <br>
+
+![Visiteurs](https://api.visitorbadge.io/api/VisitorHit?user=0xhel&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ## 🎧 Currently Listening To
 
