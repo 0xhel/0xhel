@@ -100,5 +100,5 @@ Hello world!
 ---
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUzaWx5MXFvcnhyN3FmampvMmhwdmphOGIxcnVlc2Nra3B1aDgyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Cat on Computer"/>
+  ![Random Cat](https://api.thecatapi.com/v1/images/search)
 </div>
