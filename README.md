@@ -82,5 +82,5 @@ Hello world!
 ---
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlranRzaDBpbXh4eDZocmtqNjRmeTI2cnYyN2ttMzhpMDJjbHE5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" alt="Cat on Computer"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHIxYTVsM2sybGRidWxlazkzNnFhanF1N3BoYmp3YjJ5cmF1NjR6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" alt="Cat on Computer"/>
 </div>
