@@ -106,5 +106,5 @@
 </details>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat typing on keyboard" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJpOG1uNmZoMngzZjI4Z2o2ZGJleXEwaTVueThtZXV1cWQydDVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="A matrix cat" />
 </div>
