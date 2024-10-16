@@ -22,6 +22,7 @@ Hello world!
 [![Updated Badge](https://badges.pufler.dev/updated/0xhel/badge-it)](https://badges.pufler.dev)
 [![Created Badge](https://badges.pufler.dev/created/0xhel/badge-it)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/0xhel)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/0xhel/badge-it?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
 
 <br>
 
