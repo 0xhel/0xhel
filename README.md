@@ -23,17 +23,25 @@
   <summary>🔍 <strong>About Me</strong></summary>
   <br>
   
-  <h3>🌱 Always Learning</h3>
-  <p>😝 Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖</p>
+  <p style="font-size: 12px; line-height: 1.6;">
+    <strong>🌱 Always Learning:</strong><br>
+    😝 Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
+  </p>
   
-  <h3>🎯 Goals</h3>
-  <p>👨‍💻 Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!</p>
+  <p style="font-size: 12px; line-height: 1.6;">
+    <strong>🎯 Goals:</strong><br>
+    👨‍💻 Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
+  </p>
   
-  <h3>💬 Let’s Chat!</h3>
-  <p>🤓 I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.</p>
+  <p style="font-size: 12px; line-height: 1.6;">
+    <strong>💬 Let’s Chat:</strong><br>
+    🤓 I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
+  </p>
   
-  <h3>🤣 Fun Fact</h3>
-  <p>🍫 I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦</p>
+  <p style="font-size: 12px; line-height: 1.6;">
+    <strong>🤣 Fun Fact:</strong><br>
+    🍫 I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
+  </p>
 </details>
 
 ---
