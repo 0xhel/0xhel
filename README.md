@@ -9,7 +9,7 @@ Hello world!
   </a>
 </p>
 
-## Visitors
+<p>Visitors: </p>
 <img src="https://profile-counter.glitch.me/{0xhel}/count.svg" alt="0xhel :: Visitor's Count" />
 
 <p align="center">
