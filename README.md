@@ -33,13 +33,14 @@ Hello world!
 ## 🔧 Languages & Tools
 
 <p align="center">
-  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/visualstudio_logo.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/bash_logo.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/html_logo.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/css3_logo.svg" alt="css3" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/js_logo.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/react_logo.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/0xhel/0xhel/blob/main/Ressources/languages_logo/nodejs_logo.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="vertical-align:top; margin:4px"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="vertical-align:top; margin:4px"/>
 </p>
 
 <br>
