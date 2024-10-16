@@ -19,12 +19,6 @@ Hello world!
 
 <br>
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/GOabrbLMl4AAAAAd/plink-cat-plink.gif" alt="A cat"/>
-</div>
-
-<br>
-
 ## 🐱​ About me
 
 ### 🌱 Always Learning
