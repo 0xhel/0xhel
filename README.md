@@ -18,17 +18,25 @@
 <details>
   <summary>🔍 <strong>About me</strong></summary>
 
-  ### 🌱 Always Learning
-  - 😝 &nbsp; Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
+  <details>
+    <summary>🌱 Always Learning</summary>
+    - 😝 &nbsp; Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
+  </details>
 
-  ### 🎯 Goals
-  - 👨‍💻​ &nbsp; Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
+  <details>
+    <summary>🎯 Goals</summary>
+    - 👨‍💻​ &nbsp; Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
+  </details>
 
-  ### 💬 Let’s Chat!
-  - 🤓 &nbsp; I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
+  <details>
+    <summary>💬 Let’s Chat!</summary>
+    - 🤓 &nbsp; I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
+  </details>
 
-  ### 🤣 Fun Fact
-  - 🍫 &nbsp; I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
+  <details>
+    <summary>🤣 Fun Fact</summary>
+    - 🍫 &nbsp; I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
+  </details>
 </details>
 
 ---
