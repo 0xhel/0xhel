@@ -3,24 +3,6 @@
   <img src="https://media.tenor.com/mAlJkmN3TEcAAAAi/hackerman-emote.gif" width="28">
 </h1>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/0xhel">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&bg_color=000000&title_color=00FF00&text_color=00FF00&count_private=true&cache_seconds=1800" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/0xhel">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&langs_count=3&bg_color=000000&title_color=00FF00&text_color=00FF00" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Courier+New&duration=800&pause=1000&color=00FF2C&background=000000&multiline=true&width=450&height=200&lines=%24+echo+%22Hello%2C+I'm+Aldric+Bottreau%22;Hello%2C+I'm+Aldric+Bottreau;%24+echo+%22I'm+a+Fullstack+Developer%22;I'm+a+Fullstack+Developer" alt="Typing SVG" />
