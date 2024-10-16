@@ -11,14 +11,16 @@ Hello world!
 
 <br>
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=0xhel&repo=github-visitors-badge&countColor=000000)
+
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aldric-bottreau-4529902bb/"><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/0xhel/0xhel/blob/main/socialLogo/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:0xhel@tutamail.com"><img width="32px" alt="Email" title="Email" src="https://github.com/0xhel/0xhel/blob/main/socialLogo/mail.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=0xhel&repo=github-visitors-badge&countColor=000000)
 
 <br>
 
