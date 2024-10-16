@@ -22,22 +22,22 @@
 
   <details>
     <summary>🌱 Always Learning</summary>
-    - 😝 &nbsp; Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
+    😝 Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
   </details>
 
   <details>
     <summary>🎯 Goals</summary>
-    - 👨‍💻​ &nbsp; Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
+    👨‍💻​ Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
   </details>
 
   <details>
     <summary>💬 Let’s Chat!</summary>
-    - 🤓 &nbsp; I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
+    🤓 I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
   </details>
 
   <details>
     <summary>🤣 Fun Fact</summary>
-    - 🍫 &nbsp; I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
+    🍫 I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
   </details>
 </details>
 
