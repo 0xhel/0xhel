@@ -86,7 +86,7 @@
   </div>
 </details>
 
-  ##💡 Daily quote
+  ## 💡 Daily quote
 
   <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
