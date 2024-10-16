@@ -5,7 +5,7 @@ Hello world!
 </h1>
   
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+Aldric+Bottreau;I'm+a+Fullstack+Developer+:D" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+Aldric+Bottreau;I'm+a+Fullstack+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
