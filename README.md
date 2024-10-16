@@ -18,6 +18,7 @@ Hello world!
 [![Visits Badge](https://badges.pufler.dev/visits/0xhel/badge-it)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/0xhel)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/0xhel)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/0xhel)](https://badges.pufler.dev)
 
 <br>
 
