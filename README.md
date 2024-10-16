@@ -78,13 +78,12 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-around;">
-  <details style="flex: 1; margin: 10px;">
-    <summary>🏆 <strong>GitHub Trophies</strong></summary>
-    <div align="center">
-      ![trophy](https://github-profile-trophy.vercel.app/?username=0xhel&theme=matrix&column=7)
-    </div>
-  </details>
+<details style="flex: 1; margin: 10px;">
+  <summary>🏆 <strong>GitHub Trophies</strong></summary>
+  <div align="center">
+    ![trophy](https://github-profile-trophy.vercel.app/?username=0xhel&theme=onestar&column=7)
+  </div>
+</details>
 
   <details style="flex: 1; margin: 10px;">
     <summary>🎶 <strong>Music</strong></summary>
