@@ -99,5 +99,5 @@ Hello world!
 
 ---
 
-![Random Kitten](https://placekitten.com/200/300)
+![Random Cat](https://api.thecatapi.com/v1/images/search?format=src)
 
