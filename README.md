@@ -80,7 +80,7 @@ Hello world!
   </a>
 </div>
 
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=light&category=programming)
 
 ---
 
