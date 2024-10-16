@@ -22,7 +22,7 @@ Hello world!
 ### 🌱 Always Learning
 - 🔭 &nbsp; Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
 ### 🥅 Goals
-- 🥅 &nbsp; Overcoming **imposter syndrome** — because even my bugs deserve to be acknowledged!
+- 🥅 &nbsp; Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
 ### 💬 Let’s Chat!
 - 💬 &nbsp; I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
 ### ⚡ Fun Fact
