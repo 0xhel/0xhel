@@ -28,6 +28,8 @@ Hello world!
 ### 🤣 Fun Fact
 - 🍫 &nbsp; I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
 
+---
+
 ## ⚙️ Skills
 
 <p align="center">
@@ -51,6 +53,8 @@ Hello world!
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="vertical-align:top; margin:4px"/>
 </p>
 
+---
+
 ## 📊 Stats
 
 <div align="center">
@@ -62,9 +66,13 @@ Hello world!
   </a>
 </div>
 
+---
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=0xhel&theme=matrix&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## 🎶 Music
 
@@ -77,6 +85,8 @@ Hello world!
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m3djlmresd6niu2ctcamitd2yq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
   </a>
 </div>
+
+---
 
 ## 💡 Daily quote
 
