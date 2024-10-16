@@ -15,14 +15,7 @@ Hello world!
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/0xhel/badge-it)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/0xhel)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/0xhel)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/0xhel)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/0xhel/badge-it)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/0xhel/badge-it)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/0xhel)](https://badges.pufler.dev)
-[![Contributors Display](https://badges.pufler.dev/contributors/0xhel/badge-it?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <br>
 
