@@ -99,4 +99,5 @@ Hello world!
 
 ---
 
-![Random Cat](https://aws.random.cat/meow)
+![Random Kitten](https://placekitten.com/200/300)
+
