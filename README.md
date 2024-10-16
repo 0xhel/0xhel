@@ -1,17 +1,22 @@
 <h1 align="center">
-<h1 align="center">
-Hello world!
+  Hello world! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-  
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+Aldric+Bottreau;I'm+a+Fullstack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+Aldric+Bottreau;I'm+a+Fullstack+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href=""><img width="32px" alt="Linkedin" title="Linkedin"  src="https://github.com/0xhel/0xhel/blob/main/socialLogo/linkedinLogo.png"/></a>
+  <a href="">
+    <img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/0xhel/0xhel/blob/main/socialLogo/linkedinLogo.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:0xhel@tutamail.com"><img width="32px" alt="Email" title="Email" src="https://github.com/0xhel/0xhel/blob/main/socialLogo/mailLogo.png"></a>
+  <a href="mailto:0xhel@tutamail.com">
+    <img width="32px" alt="Email" title="Email" src="https://github.com/0xhel/0xhel/blob/main/socialLogo/mailLogo.png">
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -21,10 +26,13 @@ Hello world!
 
 ### 🌱 Always Learning
 - 🔭 &nbsp; Currently diving into new technologies and figuring out why my code sometimes has a mind of its own! 🤖
+
 ### 🥅 Goals
 - 🥅 &nbsp; Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
+
 ### 💬 Let’s Chat!
 - 💬 &nbsp; I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
+
 ### ⚡ Fun Fact
 - ⚡ &nbsp; I have an irrational fear of shipwrecks. Who needs the drama of the Titanic when you can code? 🚢😱
 
@@ -58,12 +66,12 @@ Hello world!
 ## 📈 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/0xhel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&theme=radical&count_private=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/0xhel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&langs_count=3&theme=radical" />
-</a>
+  <a href="https://github.com/0xhel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&theme=radical&count_private=true&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/0xhel">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&langs_count=3&theme=radical" />
+  </a>
 </div>
 
 <br>
@@ -84,9 +92,11 @@ Hello world!
 
 <p align="center">Just a Random programming jokes :</p>
 
-<div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
 
-</br>
+<br>
 
 ---
 
