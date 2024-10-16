@@ -81,9 +81,9 @@
 
 ---
 
-<h3 align="center">
+<h6 align="center">
   🎶 Music
-</h3>
+</h6>
 
   <p align="center">
     Music fuels my coding sessions! Here's what I'm jamming to right now:
