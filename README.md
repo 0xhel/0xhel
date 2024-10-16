@@ -49,6 +49,8 @@
 
 <details>
   <summary>⚙️ <strong>Skills</strong></summary>
+
+  <br>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="vertical-align:top; margin:4px"/>
@@ -77,6 +79,8 @@
 <details>
   <summary>📊 <strong>Stats</strong></summary>
 
+  <br>
+
   <div align="center">
     <a href="https://github.com/0xhel">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&bg_color=000000&title_color=00FF00&text_color=00FF00&count_private=true&cache_seconds=1800" />
@@ -92,6 +96,8 @@
 <details>
   <summary>🏆 <strong>GitHub Trophies</strong></summary>
 
+  <br>
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=0xhel&theme=matrix&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
@@ -99,6 +105,8 @@
 
 <details>
   <summary>🎶 <strong>Music</strong></summary>
+
+  <br>
 
   <p align="center">
     Music fuels my coding sessions! Here's what I'm jamming to right now:
@@ -115,6 +123,8 @@
 
 <details>
   <summary><strong>💡 Daily quote</strong></summary>
+
+  <br>
 
   <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Github Readme Daily Quotes" />
