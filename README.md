@@ -99,6 +99,4 @@ Hello world!
 
 ---
 
-<div align="center">
-  ![Random Cat](https://api.thecatapi.com/v1/images/search)
-</div>
+![Random Cat](https://aws.random.cat/meow)
