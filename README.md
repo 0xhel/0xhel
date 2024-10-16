@@ -31,8 +31,6 @@
   - 🍫 &nbsp; I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
 </details>
 
----
-
 <details>
   <summary>⚙️ Skills</summary>
   
@@ -58,8 +56,6 @@
   </p>
 </details>
 
----
-
 <details>
   <summary>📊 Stats</summary>
 
@@ -73,15 +69,11 @@
   </div>
 </details>
 
----
-
 <details>
   <summary>🏆 GitHub Trophies</summary>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=0xhel&theme=matrix&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
-
----
 
 <details>
   <summary>🎶 Music</summary>
@@ -96,8 +88,6 @@
     </a>
   </div>
 </details>
-
----
 
 <details>
   <summary>💡 Daily quote</summary>
