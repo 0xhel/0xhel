@@ -23,7 +23,7 @@
   <details>
     <br>
     <summary>🌱 Always Learning</summary>
-    😝 <em>Currently diving into new technologies like React, Node.js, and exploring the world of AI!</em> 🤖
+    😝 <em>Currently diving into new technologies like React, Node.js.</em>
   </details>
 
   <details>
