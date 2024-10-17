@@ -84,15 +84,7 @@
 
   <br>
 
-  <div align="center">
-    <a href="https://github.com/0xhel">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&line_height=27&bg_color=000000&title_color=00FF00&text_color=00FF00&count_private=true&cache_seconds=1800" />
-    </a>
-    <a href="https://github.com/0xhel">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&langs_count=3&bg_color=000000&title_color=00FF00&text_color=00FF00" />
-    </a>
-  </div>
-</details>
+ dd
 
 <hr>
 
