@@ -14,7 +14,7 @@
 </div>
 
 <br>
-
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtrb2k0dnVwYjdybGNqaXpmdmtpZHpicGo1cmk5aGNxdWVsamRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" alt="A matrix cat" style="width: 100%; max-width: 500px;" />
 <details>
   <summary>🔍 <strong>About me</strong></summary>
   
