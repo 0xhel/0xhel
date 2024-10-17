@@ -14,10 +14,10 @@
 </div>
 
 <br>
-
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtrb2k0dnVwYjdybGNqaXpmdmtpZHpicGo1cmk5aGNxdWVsamRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" style="float: right; width: 150px; margin-left: 10px;" alt="GIF" />
 <details>
   <summary>🔍 <strong>About me</strong></summary>
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtrb2k0dnVwYjdybGNqaXpmdmtpZHpicGo1cmk5aGNxdWVsamRyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" style="float: right; width: 150px; margin-left: 10px;" alt="GIF" />
+  
 <br>
 
   <details>
