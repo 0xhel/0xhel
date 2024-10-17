@@ -29,19 +29,19 @@
   <details>
     <summary>🎯 Goals</summary>
     <br>
-    👨‍💻​ Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!
+    👨‍💻​ <em>Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!</em>
   </details>
 
   <details>
     <summary>💬 Let’s Chat!</summary>
     <br>
-    🤓 I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.
+    🤓 <em>I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.</em>
   </details>
 
   <details>
     <summary>🤣 Fun Fact</summary>
     <br>
-    🍫 I dislike chocolate so much that I’d trade a bar for a bag of broccoli! 🥦
+    🍫 <em>I dislike chocolate so much that I’d trade a bar for a bag of broccoli!</em> 🥦
   </details>
 </details>
 
