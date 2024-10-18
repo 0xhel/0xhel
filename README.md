@@ -19,30 +19,18 @@
   <summary>🔍 <strong>About me</strong></summary>
   
 <br>
-
-  <details>
     <br>
-    <summary>🌱 Always Learning</summary>
+   ``` 🌱 Always Learning
     😝 <em>Currently diving into new technologies like React, Node.js.</em>
-  </details>
-
-  <details>
     <summary>🎯 Goals</summary>
     <br>
     👨‍💻​ <em>Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!</em>
-  </details>
-
-  <details>
     <summary>💬 Let’s Chat!</summary>
     <br>
     🤓 <em>I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.</em>
-  </details>
-
-  <details>
     <summary>🤣 Fun Fact</summary>
     <br>
-    🍫 <em>I dislike chocolate so much that I’d trade a bar for a bag of broccoli!</em> 🥦
-  </details>
+    🍫 <em>I dislike chocolate so much that I’d trade a bar for a bag of broccoli!</em> 🥦 ```
 </details>
 
 <hr>
