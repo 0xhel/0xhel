@@ -22,7 +22,7 @@ jobs:
           SECTION_NAME: waka # optional
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           CODE_LANG: rust # optional
-          TIME_RANGE: this_year # changed to show stats for this year
+          TIME_RANGE: all_time # changed to show stats for this year
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # show total coding time
