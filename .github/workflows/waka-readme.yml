@@ -1,39 +1,32 @@
+name: Update README with WakaTime Stats
+
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
+  workflow_dispatch:  # Permet l'exécution manuelle
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Exécution quotidienne à minuit UTC
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: your_github_username/your_repository_name # replace with your info
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: this_year # changed to show stats for this year
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # show total coding time
-          SHOW_MASKED_TIME: true # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: your_name # replace with your name
-          AUTHOR_EMAIL: your_email@example.com # replace with your email
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # requis
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # requis
+          API_BASE_URL: https://wakatime.com/api  # ou https://wakapi.dev/api pour des services alternatifs
+          REPOSITORY: your_github_username/your_repository_name  # remplace par tes infos
+          SHOW_TITLE: true  # affiche le titre des stats
+          SECTION_NAME: waka  # nom de la section dans README
+          TIME_RANGE: all_time  # pour obtenir toutes les stats
+          LANG_COUNT: 10  # affiche jusqu'à 10 langages
+          SHOW_TIME: true  # affiche le temps passé par langage
+          SHOW_TOTAL: true  # affiche le temps total passé à coder
+          SHOW_MASKED_TIME: true  # affiche le temps total y compris les langages non classés
+          STOP_AT_OTHER: false  # arrête lorsque le langage "Autre" est récupéré
+          IGNORED_LANGUAGES: YAML JSON TOML  # cache ces langages si souhaité
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics  # message de commit
+          TARGET_BRANCH: master  # branche cible pour le commit
+          TARGET_PATH: README.md  # chemin du fichier à mettre à jour
+          AUTHOR_NAME: 0xhel  # remplace par ton nom
+          AUTHOR_EMAIL: 0xhel@tutamail.com  # remplace par ton email
