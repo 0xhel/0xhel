@@ -19,18 +19,30 @@
   <summary>🔍 <strong>About me</strong></summary>
   
 <br>
+
+  <details>
     <br>
-   ``` 🌱 Always Learning
+    <summary>🌱 Always Learning</summary>
     😝 <em>Currently diving into new technologies like React, Node.js.</em>
+  </details>
+
+  <details>
     <summary>🎯 Goals</summary>
     <br>
     👨‍💻​ <em>Striving for continuous improvement — always looking for ways to write cleaner and more efficient code!</em>
+  </details>
+
+  <details>
     <summary>💬 Let’s Chat!</summary>
     <br>
     🤓 <em>I’m always up for discussions about tech, and I’m known to throw in a dad joke or two.</em>
+  </details>
+
+  <details>
     <summary>🤣 Fun Fact</summary>
     <br>
-    🍫 <em>I dislike chocolate so much that I’d trade a bar for a bag of broccoli!</em> 🥦 ```
+    🍫 <em>I dislike chocolate so much that I’d trade a bar for a bag of broccoli!</em> 🥦
+  </details>
 </details>
 
 <hr>
@@ -133,3 +145,5 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJpOG1uNmZoMngzZjI4Z2o2ZGJleXEwaTVueThtZXV1cWQydDVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="A matrix cat" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
