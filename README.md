@@ -92,6 +92,17 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&langs_count=3&bg_color=000000&title_color=00FF00&text_color=00FF00" />
     </a>
   </div>
+<!--START_SECTION:waka-->
+
+```txt
+JavaScript   23 mins         █████████████████░░░░░░░░   68.12 %
+HTML         8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+JSON         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+```
+
+<!--END_SECTION:waka-->
 </details>
 
 <hr>
@@ -145,14 +156,3 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJpOG1uNmZoMngzZjI4Z2o2ZGJleXEwaTVueThtZXV1cWQydDVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="A matrix cat" />
 </div>
 
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   23 mins         █████████████████░░░░░░░░   68.12 %
-HTML         8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.00 %
-JSON         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-```
-
-<!--END_SECTION:waka-->
