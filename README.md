@@ -115,7 +115,3 @@
 <br>
 
 ![snake gif](https://github.com/0xhel/0xhel/blob/output/github-snake-dark.svg)
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzllY2Q2YjNjNzlmOTMxZTUzNWM4MWFjMTNlNDcxY2JjYzU0MGJmMiZlcD12MV9kaW5lX3N3b3JkcyZjdD1z/NxTfbppj9h6nHrWhse/giphy.webp" width="480">
-</div>
