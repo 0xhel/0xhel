@@ -93,8 +93,6 @@
     </a>
   </div>
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 115.1 kB Used in GitHub's Storage 
