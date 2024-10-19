@@ -80,7 +80,7 @@
 <hr>
 
 <details>
-  <summary>📊 <strong>Stats</strong></summary>
+  <summary>📊 <strong>Wakatime stats</strong></summary>
 
   <br>
   
