@@ -141,7 +141,6 @@
 
 <br>
 
-![snake gif](https://github.com/0xhel/0xhel/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJpOG1uNmZoMngzZjI4Z2o2ZGJleXEwaTVueThtZXV1cWQydDVpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt="A matrix cat" />
