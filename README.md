@@ -92,6 +92,8 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&langs_count=3&bg_color=000000&title_color=00FF00&text_color=00FF00" />
     </a>
   </div>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </details>
 
 <hr>
