@@ -157,22 +157,6 @@ Go                       1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 29/10/2024 18:45:59 UTC
 <!--END_SECTION:waka-->
-</details>
-
-<hr>
-
-<details>
-  <summary>🏆 <strong>GitHub Trophies</strong></summary>
-
-  <br>
-  
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=0xhel&theme=matrix&column=7" alt="GitHub Trophies" />
-    </a>
-  </p>
-
-</details>
 
 <hr>
 
