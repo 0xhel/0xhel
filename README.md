@@ -158,6 +158,8 @@ Go                       1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 29/10/2024 18:45:59 UTC
 <!--END_SECTION:waka-->
 
+</details>
+
 <hr>
 
 <details>
