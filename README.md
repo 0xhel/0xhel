@@ -1,5 +1,5 @@
-<h1>Hello !</h1>
-<p>Hi! I’m hel, a Linux nerd (yes, I use Arch btw) who loves ricing my system almost as much as writing clean code. I work on front-end: HTML, CSS, JS, React/Redux and back-end: Node.js, Express. I script in C and Bash and keep data neat with MongoDB. Agile projects? Bring it on, Scrum keeps me sane… mostly. Git and GitHub are my trusty sidekicks.</p>
+<h1>Hello World !</h1>
+<p>Hi ! I’m hel, a Linux nerd (yes, I use Arch btw) who loves ricing my system almost as much as writing clean code. I work on front-end: HTML, CSS, JS, React/Redux and back-end: Node.js, Express. I script in C and Bash and keep data neat with MongoDB. Agile projects? Bring it on, Scrum keeps me sane… mostly. Git and GitHub are my trusty sidekicks.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
