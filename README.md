@@ -29,7 +29,7 @@
 
 <table>
   <tr>
-    <td width="150" align="center">
+    <td width="500" align="center">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd244b291Y2tqcXJic3ZvMThubGk4emFwNW81eDEwZ3k4OWpwcmg2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J30ocYVafRiyQ/giphy.gif" alt="GIF" width="100"/>
     </td>
     <td align="center">
