@@ -84,9 +84,18 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/0xhel/0xhel/blob/output/github-snake-dark.svg" alt="Snake eating commits"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/0xhel/0xhel/blob/output/github-snake-dark.svg" alt="Snake eating commits"/>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m3djlmresd6niu2ctcamitd2yq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">✨ Thanks for scrolling, you absolute legend ✨</h2>
 
