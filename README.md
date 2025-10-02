@@ -1,18 +1,19 @@
 <h1 align="center">👋 Hello World !</h1>
 
 <p align="center">
-Hi! I’m <b>hel</b>, a Linux nerd (yes, I use <b>Arch</b> btw 🐧) who loves ricing my system 🎨 almost as much as writing clean code 💻.<br/>
-I work on <b>front-end</b>: HTML, CSS, JS, React/Redux ⚛️ and <b>back-end</b>: Node.js, Express 🚀.<br/>
-I script in C and Bash 🖥️ and keep data neat with MongoDB 🍃.<br/>
-Agile projects? Bring it on — Scrum keeps me sane… mostly 📅.<br/>
-Git and GitHub are my trusty sidekicks 🦾.
+Hi! I’m <b>hel</b>, a Linux nerd (yes, I use <b>Arch</b> btw 🐧) who spends way too much time ricing my system 🎨 instead of touching grass 🌱.<br/>
+I break things daily just to fix them again because that’s apparently my hobby.<br/>
+I tinker with <b>front-end</b> magic like HTML, CSS, JS, React/Redux ⚛️ and smash bugs on the <b>back-end</b> with Node.js and Express 🚀.<br/>
+Sometimes I speak C like it’s an ancient spellbook 📜, sometimes I whisper to Bash 🖥️, and sometimes I just scream at MongoDB 🍃 until it behaves.<br/>
+Scrum says I’m “organized,” my Git commits say otherwise 🙃.<br/>
+GitHub and I have a love–hate relationship: I push, it complains, and we move on 🦾.
 </p>
 
 ---
 
-<h2 align="left">⚡ Languages and Tools</h2>
+<h2 align="center">⚡ Languages and Tools</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42"/>
@@ -35,15 +36,15 @@ Git and GitHub are my trusty sidekicks 🦾.
 
 ---
 
-<h2 align="right">📊 My Stats</h2>
+<h2 align="center">📊 My Stats</h2>
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hel&show_icons=true&locale=en&theme=radical" alt="hel" />
 </p>
-<p align="right">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hel&theme=radical" alt="hel" />
 </p>
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hel&show_icons=true&locale=en&layout=compact&theme=radical" alt="hel" />
 </p>
 
@@ -59,19 +60,19 @@ Git and GitHub are my trusty sidekicks 🦾.
 
 ---
 
-<h2 align="left">🎨 My Rice</h2>
+<h2 align="center">🎨 My Rice</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/0xhel/0xhel/blob/main/assets/github.png" alt="Arch Linux rice" width="600"/>
 </p>
 
-<p align="left">
-  <b>💀 I use Arch btw :3 ❤️</b>
+<p align="center">
+  <b>💀 I use Arch btw :3 ❤️ (yes, this entire flex is just to show off my rice)</b>
 </p>
 
 ---
 
-<h2 align="center">✨ Thanks for scrolling!</h2>
+<h2 align="center">✨ Thanks for scrolling, you absolute legend ✨</h2>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB6M2ljaHhzNTkwajVwM25paTg5ZDF6Njl2MDRwZm5peTJ1azFoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XdUr7e0X1Kjeg/giphy.gif" alt="fun gif"/>
