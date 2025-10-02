@@ -16,16 +16,7 @@ Feel free to connect with me @0xhel for tech talk, collabs, or just to say hello
 
 Joined Github **recently**, but I’m already building cool projects and pushing code every day! 🚀
 
-<hr>
-<h3 align="left">✨ Random Dev Quote:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
-
 Like My Work?
-
-<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/0xhel/0xhel/main/assets/coding.gif" />
 
