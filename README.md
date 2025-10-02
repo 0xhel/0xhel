@@ -84,4 +84,5 @@
 
 ---
 
+![snake gif](https://github.com/0xhel/0xhel/blob/output/github-snake-dark.svg)
 <h2 align="center">✨ Thanks for scrolling, you absolute legend ✨</h2>
