@@ -60,7 +60,7 @@
     </td>
     <td width="50%" align="center">
       <h2>🏆 GitHub Trophies</h2>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <a href="https://github.com/0xhel/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=hel&margin-w=10&margin-h=10&column=3&theme=onedark" alt="hel"/>
       </a>
     </td>
