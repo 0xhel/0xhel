@@ -1,90 +1,184 @@
-# Hey there 👋, I'm [hel](https://github.com/0xhel)
+# Hel
 
+```typescript
+const profile = {
+  name: "Hel",
+  bio: "Hi, I'm hel ! 🐧
+
+A Linux lover ( I use Arch btw ) and an undisputed Vim fan. I also enjoy ricing my Linux setup to make my terminal look fabulous. I write code in C, Go, Node.js, JS/TS, Bash, and dabble in React, MongoDB, Cloudinary, Firebase… basically anything that makes my terminal happy.
+
+When I'm not debugging life, I'm probably convincing my cat to approve my commits or arguing with syntax errors. 🐱",
+  currentWork: "Currently sharpening my skills in low-level programming by working on personal projects in C, ASM, and system-level programming to level up my expertise.",
+  learning: "Specializing in low-level programming, focusing on Assembly and building projects in C.",
+  interests: "🐧 Linux & Arch – OS tinkering,ricing,and terminal mastery
+
+✨ Vim – True fan of modal editing,efficiency,and plugins
+
+💻 Programming – C,Go,Bash/Shell scripting,Node.js,JavaScript/TypeScript
+
+🌐 Web Development – React,Redux,Next.js,HTML5,CSS3,Tailwind CSS
+
+🗄️ Databases & Backend – MongoDB,Express,Firebase,Cloudinary
+
+🛠️ Dev Tools & Workflow – Git,GitHub,VSCode,Neovim,automation
+
+🚀 Learning & Growth – Low-level programming,system programming,exploring new tech
+
+🎨 Customization & Productivity – Dotfiles,Linux ricing,optimizing workflows
+
+🎶 Music – Always coding with good tunes
+
+☕ Fun & Humor – Nerd jokes,playful coding challenges",
+  skills: [
+    "React",
+    "Next.js",
+    "Tailwind",
+    "HTML5",
+    "CSS3",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "React Native",
+    "JavaScript",
+    "TypeScript",
+    "C",
+    "Go"
+  ],
+}
+```
+
+## 🔭 I'm currently working on
+
+Currently sharpening my skills in low-level programming by working on personal projects in C, ASM, and system-level programming to level up my expertise.
+
+## 🌱 I'm currently learning
+
+Specializing in low-level programming, focusing on Assembly and building projects in C.
+
+## 👀 I'm interested in
+
+🐧 Linux & Arch – OS tinkering, ricing, and terminal mastery
+
+✨ Vim – True fan of modal editing, efficiency, and plugins
+
+💻 Programming – C, Go, Bash/Shell scripting, Node.js, JavaScript/TypeScript
+
+🌐 Web Development – React, Redux, Next.js, HTML5, CSS3, Tailwind CSS
+
+🗄️ Databases & Backend – MongoDB, Express, Firebase, Cloudinary
+
+🛠️ Dev Tools & Workflow – Git, GitHub, VSCode, Neovim, automation
+
+🚀 Learning & Growth – Low-level programming, system programming, exploring new tech
+
+🎨 Customization & Productivity – Dotfiles, Linux ricing, optimizing workflows
+
+🎶 Music – Always coding with good tunes
+
+☕ Fun & Humor – Nerd jokes, playful coding challenges
+
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace '0xhel' with your actual GitHub username in the URL below -->
 <p align="center">
-  <img src="https://media.tenor.com/mAlJkmN3TEcAAAAi/hackerman-emote.gif" width="32">
+  <img src="https://profile-counter.glitch.me/0xhel/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=0xhel&color=0e75b6&style=flat)](https://github.com/0xhel)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/0xhel)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/0xhel)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/0xhel)
+## 🏆 GitHub Trophies
 
----
-
-## 🌱 About Me
-
-I am a passionate developer and system enthusiast. I love building efficient code, learning new technologies, and exploring the depths of Linux.  
-When I'm not coding, you can find me experimenting with scripts, tweaking my setup, or jamming to music. 🎧
-
----
-
-## 💻 Skills
-
-### Frontend
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-
-### Backend
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU"></code>
-
-### System & Scripting
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-
-### Tools & Workflow
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-
----
-
-## 🚀 GitHub Stats
-
-<details>
-  <summary>Show GitHub Stats</summary>
-
-  <br>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&layout=compact&langs_count=8&hide_border=true" />
-</details>
-
-<details>
-  <summary>GitHub Streak</summary>
-
-  <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=0xhel&hide_border=true" />
-</details>
-
----
-
-## 🎧 Currently Listening
-
+<!-- ⚠️ Important: Replace '0xhel' with your actual GitHub username in the URL below -->
 <p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?user=YOUR_SPOTIFY_USERID">
-    <img src="https://readme.andyruwruw.com/api/now-playing?user=YOUR_SPOTIFY_USERID">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=0xhel&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </p>
 
-<p align="center">
-  <img src="https://readme.andyruwruw.com/api/top-played?user=YOUR_SPOTIFY_USERID">
-</p>
+## 📊 GitHub Stats
 
----
-
-## ✨ Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-</p>
-
----
-
+<!-- ⚠️ Important: Replace '0xhel' with your actual GitHub username in the URL below -->
 <div align="center">
-  <h3>Show some ❤️ by starring some repositories!</h3>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace '0xhel' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&layout=compact&langs_count=10&theme=dark"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace '0xhel' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xhel&theme=dark&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "React",
+    "Next.js",
+    "Tailwind",
+    "HTML5",
+    "CSS3"
+  ],
+  "backend": [
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  "mobile": [
+    "React Native"
+  ],
+  "languages": [
+    "JavaScript",
+    "TypeScript",
+    "C",
+    "Go"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "0xhel",
+}
+```
+
+<div>
+<a href="https://github.com/0xhel"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
+</div>
+
+## 🚀 Open Source Contributions
+
+```javascript
+const contributions = [
+  {
+    project: "GIGSTER",
+    link: "https://github.com/0xhel/GIGSTER",
+    description: "Gigster is a mobile application built with Expo that connects musical artists with event hosts. I developed this project as my final project to validate my degree, focusing on creating a smooth and intuitive platform for booking and managing live performances. The app showcases my skills in mobile development, backend integration, and user-centered design."
+  }
+];
+```
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/0xhel/GIGSTER">GIGSTER</a></td>
+    <td>Gigster is a mobile application built with Expo that connects musical artists with event hosts. I developed this project as my final project to validate my degree, focusing on creating a smooth and intuitive platform for booking and managing live performances. The app showcases my skills in mobile development, backend integration, and user-centered design.</td>
+  </tr>
+</table>
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
