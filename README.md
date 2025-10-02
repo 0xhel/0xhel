@@ -90,8 +90,9 @@
       <img src="https://github.com/0xhel/0xhel/blob/output/github-snake-dark.svg" alt="Snake eating commits"/>
     </td>
     <td width="50%" align="center">
+      <h3>🎵 Currently Listening To</h3>
       <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m3djlmresd6niu2ctcamitd2yq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m3djlmresd6niu2ctcamitd2q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
       </a>
     </td>
   </tr>
