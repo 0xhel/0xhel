@@ -1,4 +1,4 @@
-<h1 align="center">Hello World ! 🌍</h1>
+<h1 align="center">Hello World ! <3</h1>
 
 <p align="center">
 Hi! I’m <b>hel</b>, a Linux nerd (yes, I use <b>Arch</b> btw) who loves ricing my system almost as much as writing clean code.  
