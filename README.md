@@ -84,5 +84,8 @@
 
 ---
 
-![snake gif](https://github.com/0xhel/0xhel/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/0xhel/0xhel/blob/output/github-snake-dark.svg" alt="Snake eating commits" width="400"/>
+</p>
+
 <h2 align="center">✨ Thanks for scrolling, you absolute legend ✨</h2>
