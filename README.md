@@ -1,81 +1,98 @@
-<h1 align="center">
-  Hello world!  
-  <img src="https://media.tenor.com/mAlJkmN3TEcAAAAi/hackerman-emote.gif" width="28">
-</h1>
+## Hey there 👋, I'm [0xhel](https://github.com/0xhel)
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/0xhel)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/0xhel)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/0xhel/)
+
+### Glad to see you here! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xhel&label=Profile%20views&color=0e75b6&style=flat" alt="0xhel" /> </p>
+
+I am a Full Stack Developer with a focus on **C, Linux, Bash scripting, and building scalable web apps**.  
+I enjoy **problem-solving, automating workflows, and mastering both frontend & backend development**.  
+
+I'm currently exploring **Node.js, Express, MongoDB, React, Redux, and Next.js**, while also honing my skills in **C and shell scripting**.
+
+Feel free to connect with me @0xhel for tech talk, collabs, or just to say hello! 🌟
+
+Joined Github **recently**, but I’m already building cool projects and pushing code every day! 🚀
+
+<hr>
+<h3 align="left">✨ Random Dev Quote:</h3>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=800&pause=1000&color=00FF2C&background=000000&multiline=true&width=600&height=150&lines=%24+echo+%22Hello%2C+I'm+0xhel%22;Hello%2C+I'm+0xhel;%24+echo+%22Fullstack+Developer%22;Fullstack+Developer" alt="Typing SVG" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
+<hr>
 
----
+Like My Work?
 
-## 🔍 About me
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/0xhel/0xhel/main/assets/coding.gif" />
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with **C, Bash, Linux, Node.js, React, MongoDB**  
+- 🚀 &nbsp; I’m exploring new tools and frameworks to become a better dev  
+- 💬 &nbsp; Ask me anything [here](https://github.com/0xhel/0xhel/issues)! I’m happy to help  
+- 👾 &nbsp; Fun fact: I can write C faster than I can eat pizza 🍕  
+- 📫 &nbsp; Reach me out: 0xhel@users.noreply.github.com  
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; Building cool tools and experimenting with code  
+- 📰 &nbsp; Reading tech blogs and exploring tutorials  
+- 🍕 &nbsp; Pizza… but mostly while coding  
+
+### Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+### Projects and Dev Stuffs:
 
 <details>
-  <summary>Click to expand</summary>
+  <summary><b>⚡ Github Stats</b></summary>
 
-- 🌱 Always learning: Front-end & Back-end, C, Shell scripting  
-- 🎯 Goal: Improve continuously and build robust, efficient applications  
-- 💬 Let’s chat about tech, coding practices, or project management  
-- 🤓 Fun Fact: I like coding challenges and optimizing workflows
-
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xhel&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
----
+<details>
+  <summary>☄️ Github Streaks</summary>
 
-## ⚙️ Skills
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=0xhel&hide_border=true" />
+</details>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-1793d1?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-333333?style=for-the-badge&logo=gnushell&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Linux (Arch Linux)</li>
+	    <li><b>Laptop:</b> Custom Build / Laptop</li>
+  	    <li><b>Browser:</b> Firefox & Chrome</li>
+	    <li><b>Terminal:</b> ZSH: Oh My Zsh (Powerlevel10k)</li>
+	    <li><b>Code Editor:</b> Neovim & VSCode</li>
+ 	    <li><b>Other Tools:</b> Git, GitHub, Postman, Notion</li>
+	    <li><b>Project Management:</b> Agile/Scrum</li>
+	</ul>
+</details>
 
----
+#
 
-## 🛠️ Workflow & Tools
+<div align="center">
 
-- **Version Control:** Git & GitHub  
-- **Project Management:** Agile (Scrum)  
-- **System Administration:** Linux / Arch Linux  
+### Show some ❤️ by starring some of the repositories!
 
----
-
-## 🎶 Music I code to
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m3djlmresd6niu2ctcamitd2yq&cover_image=true&theme=dark&show_offline=false" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
-## 💡 Daily Quote
-
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming" alt="Daily Quote" />
-</p>
-
----
-
-## 🚀 Connect with me
-
-<p align="center">
-  <a href="https://github.com/0xhel"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/0xhel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/0xhel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+</div>
