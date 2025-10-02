@@ -52,13 +52,18 @@
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B1MHhqdGdkazYxZ280YnR1azM1aHR1amk5MGE1MzFmdjdsdzJ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vnh5zLtbpFbhe/giphy.gif" alt="fun gif" width="200"/>
+    </td>
+
+    <td width="33%" align="center">
       <h2>📊 My Stats</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&locale=en&theme=radical" alt="0xhel" /><br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xhel&theme=radical" alt="0xhel" /><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xhel&show_icons=true&locale=en&layout=compact&theme=radical" alt="0xhel" />
     </td>
-    <td width="50%" align="center">
+
+    <td width="33%" align="center">
       <h2>🏆 GitHub Trophies</h2>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=0xhel&margin-w=10&margin-h=10&column=3&theme=onedark" alt="0xhel"/>
@@ -72,7 +77,7 @@
 <table>
   <tr>
     <td width="60%" align="center">
-      <img src="https://github.com/0xhel/0xhel/blob/main/assets/github.png" alt="Arch Linux rice" width="600"/>
+      <img src="https://github.com/0xhel/0xhel/raw/main/assets/github.png" alt="Arch Linux rice" width="600"/>
     </td>
     <td width="40%" align="center">
       <h2>🎨 My Rice</h2>
@@ -85,7 +90,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/0xhel/0xhel/blob/output/github-snake-dark.svg" alt="Snake eating commits"/>
+  <img src="https://raw.githubusercontent.com/0xhel/0xhel/output/github-snake-dark.svg" alt="Snake eating commits" width="400"/>
 </p>
 
 <h2 align="center">✨ Thanks for scrolling, you absolute legend ✨</h2>
