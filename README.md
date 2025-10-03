@@ -87,10 +87,10 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/0xhel/0xhel/blob/output/github-snake-dark.svg" alt="Snake eating commits"/>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B1MHhqdGdkazYxZ280YnR1azM1aHR1amk5MGE1MzFmdjdsdzJ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vnh5zLtbpFbhe/giphy.gif" alt="Vibes GIF" width="300"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B1MHhqdGdkazYxZ280YnR1azM1aHR1amk5MGE1MzFmdjdsdzJ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vnh5zLtbpFbhe/giphy.gif" alt="Vibes GIF" width="300"/>
+      <img src="https://github.com/0xhel/0xhel/blob/output/github-snake-dark.svg" alt="Snake eating commits"/>
     </td>
   </tr>
 </table>
