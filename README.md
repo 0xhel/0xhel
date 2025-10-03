@@ -33,37 +33,39 @@
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA2ajlpbTM3d21raTAzdDhxNHk1eWI1YnJscmJzMXNlaWxyeGV2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dkvGrfQ6ryIAU/giphy.gif" width="90%" />
     </td>
     <td width="60%" align="center" valign="top">
-      <h2>⚡ Languages and Tools</h2>
-      <table width="100%">
-        <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/><br/>C</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="28"/><br/>Go</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28"/><br/>TypeScript</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/><br/>JS</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="28"/><br/>React</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="28"/><br/>Redux</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="28"/><br/>CSS3</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="28"/><br/>HTML5</td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28"/><br/>Tailwind</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="28"/><br/>Node.js</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="28"/><br/>Express</td>
-          <td align="center"><img src="https://reactnative.dev/img/header_logo.svg" width="28"/><br/>React Native</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="28"/><br/>MongoDB</td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="28"/><br/>Firebase</td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="28"/><br/>Figma</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="28"/><br/>Next.js</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/><br/>Linux</td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28"/><br/>Git</td>
-          <td></td>
-          <td></td>
-        </tr>
-      </table>
+<h2>⚡ Languages and Tools</h2>
+<table width="100%">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/><br/>C</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="28"/><br/>Go</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28"/><br/>TypeScript</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/><br/>JS</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="28"/><br/>React</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="28"/><br/>Redux</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="28"/><br/>CSS3</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="28"/><br/>HTML5</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28"/><br/>Tailwind</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="28"/><br/>Node.js</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="28"/><br/>Express</td>
+    <td align="center"><img src="https://reactnative.dev/img/header_logo.svg" width="28"/><br/>React Native</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="28"/><br/>MongoDB</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="28"/><br/>Firebase</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="28"/><br/>Figma</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="28"/><br/>Next.js</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/><br/>Linux</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28"/><br/>Git</td>
+  </tr>
+</table>
     </td>
   </tr>
 </table>
