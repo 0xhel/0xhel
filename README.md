@@ -52,22 +52,24 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h2>📊 My Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&locale=en&theme=radical" alt="0xhel" /><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xhel&theme=radical" alt="0xhel" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xhel&show_icons=true&locale=en&layout=compact&theme=radical" alt="0xhel" />
-    </td>
-    <td width="50%" align="center">
-      <h2>🏆 GitHub Trophies</h2>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=0xhel&margin-w=10&margin-h=10&column=3&theme=onedark" alt="0xhel"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h2>📊 My Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=0xhel&show_icons=true&locale=en&theme=radical" alt="0xhel" /><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xhel&theme=radical" alt="0xhel" /><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xhel&show_icons=true&locale=en&layout=compact&theme=radical" alt="0xhel" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h2>🏆 GitHub Trophies</h2>
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=0xhel&margin-w=10&margin-h=10&column=3&theme=onedark" alt="0xhel"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
