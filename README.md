@@ -27,11 +27,11 @@
 </table>
 
 <div align="center">
-  <table width="900">
+  <table width="95%">
     <tr>
       <td width="40%" align="center" valign="top">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z0cDFpbGc3Z2hzdDdweHAxbXIwNXVxZXZhZGRneDRsa3ZiZ2h3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GgWVtG83mb5u/giphy.gif" width="250"/><br/>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA2ajlpbTM3d21raTAzdDhxNHk1eWI1YnJscmJzMXNlaWxyeGV2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dkvGrfQ6ryIAU/giphy.gif" width="250"/>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z0cDFpbGc3Z2hzdDdweHAxbXIwNXVxZXZhZGRneDRsa3ZiZ2h3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GgWVtG83mb5u/giphy.gif" width="100%"/><br/>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA2ajlpbTM3d21raTAzdDhxNHk1eWI1YnJscmJzMXNlaWxyeGV2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dkvGrfQ6ryIAU/giphy.gif" width="100%"/>
       </td>
       <td width="60%" align="center" valign="top">
         <h2>⚡ Languages and Tools</h2>
