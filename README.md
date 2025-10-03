@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="60%">
-      <h2>🖤 About Me</h2>
+      <h1>🖤 About Me</h1>
       <p>
       Yes, I use <b>Arch</b> btw 🐧.  
       I rice my system 🎨 more than I rice my meals 🍜.  
