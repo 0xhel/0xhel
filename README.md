@@ -102,6 +102,7 @@
 <table align="center" width="95%" style="max-width:600px;">
   <tr>
     <td width="50%" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemd4cXN5MHpwYTh0OWw1MTM5cmE2emp1bWF6cTRpNXpwMjkwOGN1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2JiHcUyeev5u/giphy.gif" alt="Vibes GIF" width="90%" />
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdoZXRkdmh4azBjaWlmdnkyd2thbzVyZmlnaWhqZW5yb2Q3Z3ZuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E5Ut4sGhGf2H6/giphy.gif" alt="Vibes GIF" width="90%" />
     </td>
     <td width="50%" align="center">
