@@ -27,7 +27,7 @@
 </table>
 
 <div align="center">
-  <table>
+  <table width="800">
     <tr>
       <td width="40%" align="center" valign="top">
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z0cDFpbGc3Z2hzdDdweHAxbXIwNXVxZXZhZGRneDRsa3ZiZ2h3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GgWVtG83mb5u/giphy.gif" width="250"/><br/>
@@ -35,7 +35,7 @@
       </td>
       <td width="60%" align="center" valign="top">
         <h2>⚡ Languages and Tools</h2>
-        <table>
+        <table width="100%">
           <tr>
             <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36"/><br/>C</td>
             <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36"/><br/>Go</td>
