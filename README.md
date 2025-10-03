@@ -26,9 +26,12 @@
   </tr>
 </table>
 
-<table align="center" width="95%">
+<table align="center" width="95%" style="max-width:600px;">
   <tr>
-    <td align="center" valign="top">
+    <td width="40%" align="center" valign="top">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW83M2Q4dG45bGZoZGk2ZTM1Z2twMXZjdzE5YmF2c3NwMjJkZHluMCZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/dkvGrfQ6ryIAU/giphy.gif" width="90%"/>
+    </td>
+    <td width="60%" align="center" valign="top">
       <h2>⚡ Languages and Tools</h2>
       <table align="center" width="100%">
         <tr>
