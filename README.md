@@ -30,7 +30,7 @@
   <tr>
     <td align="center" valign="top">
       <h2>⚡ Languages and Tools</h2>
-      <table width="100%">
+      <table align="center" width="95%">
         <tr>
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="22"/><br/>C</td>
           <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="22"/><br/>Go</td>
