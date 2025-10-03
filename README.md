@@ -26,46 +26,48 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="40%" align="center" valign="top">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z0cDFpbGc3Z2hzdDdweHAxbXIwNXVxZXZhZGRneDRsa3ZiZ2h3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GgWVtG83mb5u/giphy.gif" width="250"/>
-    </td>
-    <td width="60%" align="center" valign="top">
-      <h2>⚡ Languages and Tools</h2>
-      <table>
-        <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36"/><br/>C</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36"/><br/>Go</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/><br/>TypeScript</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/><br/>JS</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36"/><br/>React</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36"/><br/>Redux</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36"/><br/>CSS3</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36"/><br/>HTML5</td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36"/><br/>Tailwind</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36"/><br/>Node.js</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36"/><br/>Express</td>
-          <td align="center"><img src="https://reactnative.dev/img/header_logo.svg" width="36"/><br/>React Native</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36"/><br/>MongoDB</td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36"/><br/>Firebase</td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36"/><br/>Figma</td>
-        </tr>
-        <tr>
-          <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36"/><br/>Next.js</td>
-          <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36"/><br/>Linux</td>
-          <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36"/><br/>Git</td>
-          <td></td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="40%" align="center" valign="top">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z0cDFpbGc3Z2hzdDdweHAxbXIwNXVxZXZhZGRneDRsa3ZiZ2h3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GgWVtG83mb5u/giphy.gif" width="250"/>
+      </td>
+      <td width="60%" align="center" valign="top">
+        <h2>⚡ Languages and Tools</h2>
+        <table>
+          <tr>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36"/><br/>C</td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36"/><br/>Go</td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/><br/>TypeScript</td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/><br/>JS</td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36"/><br/>React</td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36"/><br/>Redux</td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36"/><br/>CSS3</td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36"/><br/>HTML5</td>
+            <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36"/><br/>Tailwind</td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36"/><br/>Node.js</td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36"/><br/>Express</td>
+            <td align="center"><img src="https://reactnative.dev/img/header_logo.svg" width="36"/><br/>React Native</td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36"/><br/>MongoDB</td>
+            <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36"/><br/>Firebase</td>
+            <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36"/><br/>Figma</td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36"/><br/>Next.js</td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36"/><br/>Linux</td>
+            <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36"/><br/>Git</td>
+            <td></td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <table>
