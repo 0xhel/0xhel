@@ -8,8 +8,7 @@
   <tr>
     <td width="60%">
       <p align="left">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=0xhel.0xhel" alt="Visitor Count"/>
-      </p>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=0xhel.0xhel&color=%23fbf1c7&count_color=%23fbf1c7&background=%23665c54" alt="Visitor Count"/>      </p>
       <h1>🖤 About Me</h1>
       <p>
       Yes, I use <b>Arch</b> btw 🐧.  
