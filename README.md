@@ -51,8 +51,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
 </p>
 
----
-
 <div align="center">
   <table>
     <tr>
