@@ -68,8 +68,6 @@
   </table>
 </div>
 
----
-
 <table>
   <tr>
     <td width="60%" align="center">
