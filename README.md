@@ -2,8 +2,6 @@
   <img src="https://github.com/0xhel/0xhel/blob/main/assets/banner.png" alt="Banner" width="100%"/>
 </p>
 
----
-
 <table>
   <tr>
     <td width="60%">
