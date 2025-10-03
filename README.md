@@ -26,15 +26,8 @@
   </tr>
 </table>
 
+<h2 align="center">⚡ Languages and Tools</h2>
 <table align="center" width="95%" style="max-width:600px;">
-  <tr>
-    <td width="40%" align="center">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z0cDFpbGc3Z2hzdDdweHAxbXIwNXVxZXZhZGRneDRsa3ZiZ2h3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GgWVtG83mb5u/giphy.gif" width="90%" /><br/>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA2ajlpbTM3d21raTAzdDhxNHk1eWI1YnJscmJzMXNlaWxyeGV2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dkvGrfQ6ryIAU/giphy.gif" width="90%" />
-    </td>
-    <td width="60%" align="center" valign="top">
-<h2>⚡ Languages and Tools</h2>
-<table width="100%">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/><br/>C</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="28"/><br/>Go</td>
@@ -64,9 +57,6 @@
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="28"/><br/>Next.js</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/><br/>Linux</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28"/><br/>Git</td>
-  </tr>
-</table>
-    </td>
   </tr>
 </table>
 
