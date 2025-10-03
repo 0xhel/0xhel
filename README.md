@@ -81,8 +81,6 @@
   </tr>
 </table>
 
----
-
 <table>
   <tr>
     <td width="50%" align="center">
