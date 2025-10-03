@@ -27,7 +27,7 @@
 </table>
 
 <div align="center">
-  <table width="80%">
+  <table width="95%">
     <tr>
       <td width="40%" align="center" valign="top">
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z0cDFpbGc3Z2hzdDdweHAxbXIwNXVxZXZhZGRneDRsa3ZiZ2h3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GgWVtG83mb5u/giphy.gif" width="100%"/><br/>
