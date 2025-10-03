@@ -94,7 +94,7 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3B1MHhqdGdkazYxZ280YnR1azM1aHR1amk5MGE1MzFmdjdsdzJ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vnh5zLtbpFbhe/giphy.gif" alt="Vibes GIF" width="300"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHEyOXVuOWdyMzJvaXY5ZjVkNGdzY2JwejN6NmtqYm0xZ2d6YzN4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GgWVtG83mb5u/giphy.gif" alt="Vibes GIF" width="300"/>
     </td>
     <td width="50%" align="center">
       <p>🎵 Currently Listening To:</p>
