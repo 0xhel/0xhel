@@ -30,15 +30,7 @@
 
 <table align="center" width="95%" style="max-width:600px;">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NseWk3YmJ2a214ZGVscG93N3FtdG5sZ2d2dThqbThvMGxjenhrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GgWVtG83mb5u/giphy.gif" width="90%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW83M2Q4dG45bGZoZGk2ZTM1Z2twMXZjdzE5YmF2c3NwMjJkZHluMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dkvGrfQ6ryIAU/giphy.gif" width="90%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td align="center" colspan="2">
       <h2>⚡ Languages and Tools</h2>
       <table align="center" width="100%">
         <tr>
@@ -72,6 +64,14 @@
           <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="22"/><br/>Git</td>
         </tr>
       </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NseWk3YmJ2a214ZGVscG93N3FtdG5sZ2d2dThqbThvMGxjenhrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6GgWVtG83mb5u/giphy.gif" width="90%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW83M2Q4dG45bGZoZGk2ZTM1Z2twMXZjdzE5YmF2c3NwMjJkZHluMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dkvGrfQ6ryIAU/giphy.gif" width="90%" />
     </td>
   </tr>
 </table>
