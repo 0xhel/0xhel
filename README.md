@@ -15,7 +15,7 @@
     <td width="62%" valign="top">
       <h1>About me</h1>
       <p>
-      Hey, I'm Aldric.<br/><br/>
+      Hey, I'm hel.<br/><br/>
       I've been around computers for a while now. I've run IT fleets and servers,
       done the daily support grind, and kept building things on the side, mostly
       JavaScript / TypeScript and Node, with some Go and C when I'm in the mood.<br/><br/>
