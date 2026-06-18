@@ -8,6 +8,13 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=0xhel.0xhel&style=for-the-badge&color=665c54" alt="Visitors"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_work-b8bb26?style=for-the-badge&logoColor=282828" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Arch-btw-282828?style=for-the-badge&logo=archlinux&logoColor=83a598" alt="Arch btw"/>
+  <img src="https://img.shields.io/badge/Made_with-Neovim-282828?style=for-the-badge&logo=neovim&logoColor=b8bb26" alt="Made with Neovim"/>
+  <img src="https://img.shields.io/badge/Powered_by-Coffee-282828?style=for-the-badge&logo=buymeacoffee&logoColor=fabd2f" alt="Powered by Coffee"/>
+</p>
+
 ---
 
 <table>
@@ -15,7 +22,7 @@
     <td width="62%" valign="top">
       <h1>About me</h1>
       <p>
-      Hey, I'm hel.<br/><br/>
+      Hey, I'm Aldric.<br/><br/>
       I've been around computers for a while now. I've run IT fleets and servers,
       done the daily support grind, and kept building things on the side, mostly
       JavaScript / TypeScript and Node, with some Go and C when I'm in the mood.<br/><br/>
@@ -147,7 +154,12 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=0xhel&hide_border=true&theme=gruvbox" alt="streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xhel&theme=gruvbox" alt="profile summary"/>
+</p>
+
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xhel&theme=gruvbox" alt="most used languages"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xhel&theme=gruvbox&utcOffset=2" alt="productive time"/>
 </p>
 
 <p align="center">
